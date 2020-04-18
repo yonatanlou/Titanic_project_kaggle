@@ -1,2 +1,2 @@
 # Titanic_project_kaggle
-Titanic data science project based on titanic dataset
+My first data science project based on the Titanic dataset from kaggle.
